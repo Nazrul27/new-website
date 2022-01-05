@@ -11,3 +11,17 @@ body{font-family: 'Hammersmith One', sans-serif;
             width: 20%;
             color:white;}
 .topnav a:hover{background-color: rgb(5, 109, 92);}
+.flex-container{display: flex;
+                }
+ .half-width{width:30%;
+            margin-top:20px;
+              padding-left:2%;}
+.half-width img{width:50%;
+                padding-left:700px;
+                 }
+h1{font-size:35px;}
+.color{color:gold}
+.author{color:grey}
+hr{height:2px;
+   background-image: linear-gradient(to right, red, yellow, rgb(232, 17, 240), rgb(73, 14, 235));
+   border:none;}
